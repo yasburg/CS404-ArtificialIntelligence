@@ -1,0 +1,1 @@
+consult("C:/Users/PC/Desktop/CS404 - HW5b - Prolog/detectiveyasinaydin.pl").
